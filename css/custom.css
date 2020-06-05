@@ -12,7 +12,7 @@ header {
 }
 aside {
     display: inline-block;
-    width: 200px;
+    width: 200px; 
     background-color: pink;
     position: fixed;
     top: 40px;
